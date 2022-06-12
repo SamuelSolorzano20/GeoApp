@@ -33,11 +33,8 @@ Funcionalidades:
 
 8) Diseño responsivo:
 
-8.1) Samsung Galaxy S8
-![Diseño sin título (7)](https://user-images.githubusercontent.com/60452856/173212607-5e88f526-fcd0-4384-a42f-99f3b4e9292c.png)
+![image](https://user-images.githubusercontent.com/60452856/173212734-07ea7d02-77b0-41ca-bc56-6cdabc9423a5.png)
 
-8.2) iPaid Air
-![Diseño sin título (8)](https://user-images.githubusercontent.com/60452856/173212680-450b878e-4ea6-48c3-8b91-6c0704abcb30.png)
 
 
 
