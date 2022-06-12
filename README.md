@@ -33,7 +33,7 @@ Funcionalidades:
 
 8) Diseño responsivo:
 
-![Diseño sin título (9)](https://user-images.githubusercontent.com/60452856/173212795-bcc2ac38-d343-445f-a0a6-dcaeec816092.png)
+![Diseño sin título (10)](https://user-images.githubusercontent.com/60452856/173212842-be03fc4c-abe1-4e70-bace-a450db2a3d44.png)
 
 
 
